@@ -1,0 +1,48 @@
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\Brandlist Export Assistant.exe.config
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\Brandlist Export Assistant.exe.manifest
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\Brandlist Export Assistant.application
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\Brandlist Export Assistant.exe
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\Brandlist Export Assistant.pdb
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\MetroFramework.Design.dll
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\MetroFramework.dll
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist_Export_Assistant.Properties.Resources.resources
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.TrustInfo.xml
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.exe.manifest
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.application
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.csproj.CopyComplete
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.exe
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.pdb
+C:\Users\PC\Desktop\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist_Export_Assistant.Forms.MainUI.resources
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\BEA.exe.config
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\BEA.exe.manifest
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\BEA.application
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\BEA.exe
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\BEA.pdb
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\MetroFramework.Design.dll
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\MetroFramework.dll
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.csprojAssemblyReference.cache
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Interop.MDMLib.dll
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.csproj.ResolveComReference.cache
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist_Export_Assistant.Forms.MainUI.resources
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist_Export_Assistant.Properties.Resources.resources
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.csproj.GenerateResource.cache
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.csproj.CoreCompileInputs.cache
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\BEA.TrustInfo.xml
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\BEA.exe.manifest
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\BEA.application
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Brandlist Export Assistant.csproj.CopyComplete
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\BEA.exe
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\BEA.pdb
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\Resources\Countries.txt
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\bin\Debug\Resources\Countries_iField.txt
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Interop.AppLogLib.dll
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Interop.CDSCLib.dll
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Interop.DATAMANLib.dll
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Interop.DmomCoreLib.dll
+C:\Users\Denislav.Angelov\Desktop\Brandlist Export Assistant\Brandlist Export Assistant\Source Code\Brandlist Export Assistant\Brandlist Export Assistant\obj\Debug\Interop.DPMScriptingLib.dll

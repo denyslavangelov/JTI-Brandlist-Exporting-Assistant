@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>O:\Training materials and Examples\JTI Tools\JTI MDD Prepare\Test\|D:\Brandlist Exporting Assistant\|D:\BEA\|C:\Users\PC\Desktop\Tool\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>\\10.138.0.58\groups%24\Organization\Training materials and Examples\JTI Tools\JTI MDD Prepare\Test\|\\localhost\O%24\Training materials and Examples\JTI Tools\JTI MDD Prepare\Test\|\\localhost\O%24\Brandlist Exporting Assistant\|\\localhost\D%24\Brandlist Exporting Assistant\|http://localhost:8080/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\localhost\O%24\Training materials and Examples\JTI Tools\JTI MDD Prepare\Test\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
